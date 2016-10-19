@@ -1,0 +1,37 @@
+.top {
+padding-bottom: 30px;
+
+}
+.navBar {
+    background-color: white;
+    border: 10px solid grey;
+    padding-bottom:10px;
+}
+
+.navBarRight {
+display:inline-block;
+}
+.lowNavBar {
+    border: 5px solid grey;
+}
+.mid {
+
+}
+.sidebar {
+
+}
+ul {
+    list-style: none;
+}
+.bottomNav {
+    text-align: center;
+}
+.centerItems {
+    text-align: center;
+}
+.bottomLinks {
+
+}
+.bottomSearch {
+    align-items: : center;
+}
